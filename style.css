@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f4f8;
+  color: #333;
+}
+
+header {
+  background: #3f51b5;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+.linha-do-tempo {
+  border-left: 4px solid #3f51b5;
+  margin-left: 1rem;
+  padding-left: 1rem;
+}
+
+.evento {
+  margin-bottom: 1.5rem;
+}
+
+.evento h3 {
+  color: #3f51b5;
+}
+
+footer {
+  background: #eee;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
